@@ -1,2 +1,2 @@
-# WebApps-S22-Assignment-6
-Assignment introduction to Java Script and DOM
+# WebApps-F23-Assignment-6
+Introduction to Java Script and DOM
